@@ -25,5 +25,10 @@ Total samples in the dataset: **9780**
 # Research Paper
 The dataset has been submitted as part of our research paper.  
 
+# Licence
+This dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+It may be used for **research and academic purposes only**.  
+Commercial use is strictly prohibited.
+
 # Ethical Statement
 The synthetic dataset is provided strictly for *academic research* and using it for any malicious,  fraudulent, or illegal activity is expressly *prohibited*. The creators and distributors of this dataset assume *no responsibility* for any misuse of the scripts or for any damages resulting from its use.
